@@ -7,4 +7,4 @@
 - редактирование
 - удаление
 
- ссылка на приложение: https://b9-coder.github.io/TodoList.io/
+ ссылка на приложение: https://b9-coder.github.io/ToDoList/
